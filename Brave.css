@@ -1,0 +1,20 @@
+#sh{
+    height: 300px;
+    width: 300px;
+    /* border: 2px solid black; */
+}
+table td{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
